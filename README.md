@@ -32,9 +32,7 @@
 <h3 align="left"> :rocket:&nbsp;Skills:</h3>
 
 **Programming Languages and Framework**
-  
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" min-width="400px" max-width="400px" width="500px" align="right" alt="logo">  
-  
+    
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)  ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)   ![LESS](https://img.shields.io/badge/-LESS-333333?style=flat&logo=less)  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss)   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)   ![StyledComponentes](https://img.shields.io/badge/-styled--componentes-333333?style=flat&logo=styled-components)   ![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript)    ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React&logoColor=3998B6)  ![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=React)   ![NextJS](https://img.shields.io/badge/-NextJS-333333?style=flat&logo=next.js)
   
 **Database**
