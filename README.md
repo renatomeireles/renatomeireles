@@ -49,9 +49,11 @@
   
 **Utilities Tools**
   
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)    ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=0052CC)  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)    ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) ![Cloudflare](https://img.shields.io/badge/-Cloudflare-333333?style=flat&logo=cloudflare) ![Amazon_AWS](https://img.shields.io/badge/-Amazon_AWS-333333?style=flat&logo=amazonaws) 
 
  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=4000BF)   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=Postman)   ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=Swagger)
+
+ ![NPM](https://img.shields.io/badge/-npm-333333?style=flat&logo=npm) ![Yarn](https://img.shields.io/badge/-Yarn-333333?style=flat&logo=yarn) ![Bun](https://img.shields.io/badge/-bun-333333?style=flat&logo=bun)
 
 **Operational Systems**  
   
