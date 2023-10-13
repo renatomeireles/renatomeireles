@@ -41,7 +41,7 @@
 
 **Design Tools**
 
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)   ![Adobexd](https://img.shields.io/badge/-Adobexd-333333?style=flat&logo=adobexd)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobephotoshop)   ![Adobexd](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobexd)
 
 **Control Version**
   
