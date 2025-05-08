@@ -25,7 +25,7 @@
 
 </div>
 
-![github contribution grid snake animation](https://www.renatomeireles.com.br/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <br/>
 
